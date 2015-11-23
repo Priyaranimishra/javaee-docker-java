@@ -1,0 +1,4 @@
+== Continuous Delivery usando Docker
+
+https://github.com/jbossdemocentral/continuous-delivery-demo
+https://github.com/amorena/democdonpaas

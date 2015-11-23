@@ -1,0 +1,9 @@
+== Prólogo
+
+Los Contenedores están permitiendo a los desarrolladores empaquetar sus aplicaciones (y dependencias) en nuevas formas que sean portables y funcionen consistentement en todos lados? En tu máquina, en producción, en su centros de datos, y en la nube. Y Docker ha sido en el estándar de facto para estos contenedores portables en la nube.
+
+Docker is the developer-friendly Linux container technology that enables creation of your stack: OS, JVM, app server, app, and all your custom configuration. So with all it offers, how comfortable are you and your team taking Docker from development to production? Are you hearing developers say, “But it works on my machine!” when code breaks in production?
+
+This lab offers developers an intro-level, hands-on session with Docker, from installation, to exploring Docker Hub, to crafting their own images, to adding Java apps and running custom containers. It will also explain how to use Swarm to orchesorchestrate these containers together. This is a BYOL (bring your own laptop) session, so bring your Windows, OSX, or Linux laptop and be ready to dig into a tool that promises to be at the forefront of our industry for some time to come.
+
+NOTE: El último contenido de este taller esta siempre en https://github.com/javaee-samples/docker-java
