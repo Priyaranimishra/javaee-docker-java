@@ -33,6 +33,8 @@ include::chapters/docker-ticket-monster.adoc[]
 
 include::chapters/docker-maven.adoc[]
 
+include::chapters/docker-gradle.adoc[]
+
 include::chapters/docker-eclipse.adoc[]
 
 ////
